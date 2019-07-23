@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: This is the title
+title: This is the title!
 date: 2019-07-23T14:17:01.913Z
 description: 'Dang, this is cool!'
 featuredpost: true
