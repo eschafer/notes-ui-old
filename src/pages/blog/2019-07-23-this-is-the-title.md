@@ -3,7 +3,7 @@ templateKey: blog-post
 title: This is the title
 date: 2019-07-23T14:17:01.913Z
 description: 'Dang, this is cool!'
-featuredpost: false
+featuredpost: true
 featuredimage: /img/chemex.jpg
 tags:
   - testing
